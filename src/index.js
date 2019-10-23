@@ -3,7 +3,7 @@ import "./style.css";
   let allQuotesObject;
 
   const loadJSON = async () => {
-    const url = `./src/assets/data/quotes.json`;
+    const url = 'https://api.myjson.com/bins/v3cjo';
     const response = await fetch(url);
     const quotesObject = await response.json();
     allQuotesObject = quotesObject;
