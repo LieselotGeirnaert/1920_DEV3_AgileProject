@@ -1,0 +1,23 @@
+{
+  "quotes": [
+    {
+      "id": 1,
+      "name": "Tom Pauwels",
+      "quote": "Things aren't always #000000 and #FFFFFF",
+      "time": 4
+    },
+    {
+        "id": 2,
+        "name": "Margeret Moor",
+        "quote": "Eat, Design, Sleep.",
+        "time": 4
+    },
+    {
+    "id": 3,
+    "name": "Kim Possible",
+    "quote": "Lorum Ipsum",
+    "time": 4
+
+    }
+  ]
+}
