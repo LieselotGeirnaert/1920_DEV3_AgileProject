@@ -1,11 +1,5 @@
 @import "./css/reset.css";
 @import "./css/vars.css";
-<<<<<<< HEAD
-=======
-@import "./css/header.css";
-@import "./css/allquotes.css";
-@import "./css/addquote.css";
->>>>>>> 401206c2af4882161be5021bb95a457bce13eb41
 
 html {
   box-sizing: border-box;
